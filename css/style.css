@@ -96,7 +96,7 @@ a {
 }
 
 .container .nav-link_back {
-  background: url(./img/return.png) left center no-repeat;
+  background: url(../img/return.png) left center no-repeat;
   background-size: contain;
   padding-left: 20px;
 }
